@@ -1,4 +1,4 @@
-import logo from "../assets/Logo.jpg";
+import logo from "../assets/logolem.jpeg";
 import { Disclosure } from "@headlessui/react";
 import { Bars3Icon, BellIcon, XMarkIcon } from "@heroicons/react/24/outline";
 import { NavLink } from "react-router-dom";
