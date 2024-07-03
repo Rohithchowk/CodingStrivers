@@ -62,7 +62,7 @@ function Home() {
           />
           <div className="mx-auto max-w-2xl lg:mx-0">
             <h2 className="text-4xl font-bold tracking-tight text-[#f4ce14] sm:text-6xl">
-              Code base
+              Coding Strivers
             </h2>
             <p className="text-white text-3xl sm:text-4xl">Ignite Your Digital Journey: Mastering Code, Crafting Futures .</p>
             <p className="text-white mt-6 text-xl leading-8">
