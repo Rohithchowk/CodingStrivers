@@ -33,13 +33,7 @@ function Footer() {
               </a>
             </button>
           </p>
-          {/* <p className="mt-3 font-medium text-sm">
-            Created with ❤️ by{" "}
-            <span className="font-bold">
-              <a href="https://github.com/sohomofficial">Sohom Mondal</a>
-            </span>
-            .
-          </p> */}
+          
         </div>
       </div>
     </footer>
