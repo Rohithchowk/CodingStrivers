@@ -88,7 +88,7 @@ function Home() {
               Our Courses !!!
             </h2>
             <NavLink
-              to="/menu"
+              to="/courses"
               className="rounded-md duration-200 delay-100 hidden md:flex bg-[#f4ce14] text-[#495e57] text-lg px-10 py-4 font-semibold shadow-xl hover:bg-black hover:text-white"
             >
              Courses
